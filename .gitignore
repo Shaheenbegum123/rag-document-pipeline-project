@@ -1,0 +1,9 @@
+*.py[cod]
+*.db
+.states
+assets/external/
+.web
+venv/
+.env
+chroma_db/
+__pycache__/
